@@ -33,3 +33,6 @@ I have been coding for 2 years. I love Node.js <3
 
 [![](https://raw.githubusercontent.com/tombensonnn/tombensonnn/output/github-contribution-grid-snake.svg)](https://github.com/tombensonnn)
 
+## 
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=tombensonnn&show_icons=true&theme=tokyonight)
+
