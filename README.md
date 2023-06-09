@@ -5,6 +5,7 @@ I'm a Backend Developer
 -----------------------
 
 I have been coding for 2 years. I love Node.js <3
+I'm currently working on Java and Spring Boot.
 
 * 🌍  I'm based in Samsun, Türkiye
 
