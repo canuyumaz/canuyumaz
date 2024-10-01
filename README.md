@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">I'm a Backend Developer</h3>
+<h1 align="center">Hi 👋, I am Can</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
